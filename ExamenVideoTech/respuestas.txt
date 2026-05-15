@@ -1,0 +1,3 @@
+﻿a) significa que si tiene un - es privado y si tiene un + es publico
+b) disponible es booleano, eso quiere decir que solo puede ser True o False
+c) el metodo toString sirve para mostrar la informacion en forma de texto 
