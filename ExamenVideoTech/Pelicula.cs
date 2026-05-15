@@ -11,7 +11,7 @@ namespace ExamenVideoTech
         private int anyo;
         private bool disponible;
 
-        public Pelicula(string titulo, string director, int anyo)
+        public Pelicula(string titulo, string director, int anyo, bool v)
         {
             this.titulo = titulo;
             this.director = director;
